@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7625d093dd9ae7cd",
+        "id": "1a4dcae80d6620f3",
         "type": "tabs",
         "children": [
           {
-            "id": "ce170d0265aea537",
+            "id": "0f2791357a226f40",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "quartz/content/.obsidian/workspace.json",
-                "bFile": "quartz/content/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "Testing This/Now Testing This/Here is a File.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Here is a File"
             }
           }
         ]
@@ -209,8 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce170d0265aea537",
+  "active": "0f1919bee4113a22",
   "lastOpenFiles": [
+    "Testing This/Now Testing This/Here is a File.md",
+    "Testing This/Now Testing This",
+    "Testing This",
     "quartz/content/Writing/Creative/Story Seeds for Apple Trees.md",
     "index.md",
     "2026-10-11.md",
@@ -247,7 +260,6 @@
     "quartz/CODE_OF_CONDUCT.md",
     "quartz/docs/features/comments.md",
     "quartz/docs/getting-started/upgrading.md",
-    "quartz/docs/getting-started/installation.md",
     "quartz/docs/Base.base",
     "quartz/content/Game Design & Theory/Game Theory",
     "quartz/content/Game Design & Theory",
@@ -256,8 +268,6 @@
     "quartz/quartz/components/scripts",
     "quartz/content/Writing/Creative",
     "quartz/quartz/components/frames",
-    "quartz/quartz/components/styles",
-    "quartz/quartz/plugins/pageTypes",
     "Untitled.canvas"
   ]
 }
