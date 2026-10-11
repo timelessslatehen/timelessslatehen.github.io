@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Creative/Let's Try Spinning.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Let's Try Spinning"
+              "title": "index"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "ce170d0265aea537",
   "lastOpenFiles": [
-    "Writing/Creative/Story Seeds.md",
     "Writing/Creative/Let's Try Spinning.md",
+    "Writing/Creative/Story Seeds.md",
     "Writing/Creative/This is a story.md",
     "Writing/Creative/A New Note.md",
     "Writing/Creative/Deleting.md"
