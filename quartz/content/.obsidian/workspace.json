@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2026-10-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-10-11"
             }
           }
         ]
@@ -199,6 +199,10 @@
   },
   "active": "ce170d0265aea537",
   "lastOpenFiles": [
+    "Untitled.base",
+    "2026-10-11.md",
+    "Untitled.canvas",
+    "index.md",
     "Writing/Creative/Let's Try Spinning.md",
     "Writing/Creative/Story Seeds.md",
     "Writing/Creative/This is a story.md",
