@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Writing/Creative/This is a story.md",
+                "file": "quartz/content/Writing/Creative/A New Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is a story"
+              "title": "A New Note"
             }
           }
         ]
@@ -190,5 +190,8 @@
     }
   },
   "active": "bcc0ecf5f34c8df1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "quartz/content/Writing/Creative/This is a story.md",
+    "quartz/content/Writing/Creative/A New Note.md"
+  ]
 }
