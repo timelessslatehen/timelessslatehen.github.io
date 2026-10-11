@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-11.md",
+                "file": "quartz/content/Writing/Creative/Story Seeds.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2026-10-11"
+              "title": "Story Seeds"
             }
           }
         ]
@@ -177,6 +187,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5af8314b7f4ad464",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "2026-10-11.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
         "currentTab": 5
@@ -199,14 +221,53 @@
   },
   "active": "ce170d0265aea537",
   "lastOpenFiles": [
-    "Untitled.base",
-    "2026-10-11.md",
-    "Untitled.canvas",
     "index.md",
-    "Writing/Creative/Let's Try Spinning.md",
-    "Writing/Creative/Story Seeds.md",
-    "Writing/Creative/This is a story.md",
-    "Writing/Creative/A New Note.md",
-    "Writing/Creative/Deleting.md"
+    "2026-10-11.md",
+    "README.md",
+    "This is the Fitness Gram Pacer Test.md",
+    "quartz/docs/images/giscus-example.png",
+    "quartz/docs/images/giscus-results.png",
+    "quartz/docs/images/github-quick-setup.png",
+    "quartz/docs/images/social-image-preview-dark.png",
+    "quartz/docs/images/social-image-preview-light.png",
+    "quartz/docs/images/custom-social-image-preview-light.png",
+    "quartz/docs/images/custom-social-image-preview-dark.png",
+    "quartz/docs/images/giscus-repo.png",
+    "quartz/docs/images/github-init-repo-options.png",
+    "quartz/docs/images/giscus-discussion.png",
+    "quartz/docs/advanced/making plugins.md",
+    "quartz/docs/configuration.md",
+    "quartz/docs/hosting.md",
+    "quartz/docs/advanced/architecture.md",
+    "quartz/docs/plugins/CustomOgImages.md",
+    "quartz/docs/getting-started/migrating.md",
+    "quartz/docs/layout.md",
+    "quartz/docs/cli/plugin.md",
+    "quartz/docs/advanced/creating components.md",
+    "quartz/docs/features/explorer.md",
+    "quartz/docs/plugins/Frontmatter.md",
+    "quartz/docs/Canvas.canvas",
+    "quartz/docs/plugins/Fonts.md",
+    "quartz/docs/getting-started/whats-new.md",
+    "quartz/docs/plugins/EncryptedPages.md",
+    "quartz/docs/layout-components.md",
+    "quartz/docs/features/Obsidian compatibility.md",
+    "quartz/docs/troubleshooting.md",
+    "quartz/CODE_OF_CONDUCT.md",
+    "quartz/docs/features/comments.md",
+    "quartz/docs/getting-started/upgrading.md",
+    "quartz/docs/getting-started/installation.md",
+    "quartz/docs/cli/create.md",
+    "quartz/docs/Base.base",
+    "quartz/content/Game Design & Theory/Game Theory",
+    "quartz/content/Game Design & Theory",
+    "quartz/quartz/plugins/transformers",
+    "quartz/content/Programming/Python",
+    "quartz/quartz/components/scripts",
+    "quartz/content/Writing/Creative",
+    "quartz/quartz/components/frames",
+    "quartz/quartz/components/styles",
+    "quartz/quartz/plugins/pageTypes",
+    "Untitled.canvas"
   ]
 }
