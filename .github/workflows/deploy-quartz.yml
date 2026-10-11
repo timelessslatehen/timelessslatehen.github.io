@@ -40,10 +40,10 @@ jobs:
         run: npm run quartz -- build --output public
         working-directory: quartz
 
-      - name: Stage site under /quartz
+      - name: Stage site at the domain root
         run: |
-          mkdir -p _site/quartz
-          cp -a quartz/public/. _site/quartz/
+          mkdir -p _site
+          cp -a quartz/public/. _site/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
