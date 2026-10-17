@@ -11,10 +11,15 @@
             "id": "0f2791357a226f40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Design & Theory/Game Theory/Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -27,11 +32,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1b1ba3d2da7e520",
+        "id": "50884487edc00c46",
         "type": "tabs",
         "children": [
           {
-            "id": "0f1919bee4113a22",
+            "id": "2f3efc11ae83c9f6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,26 +49,8 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "5d6370618d04a801",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,16 +61,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eda501fd9be699f0",
+        "id": "6b215927943671ab",
         "type": "tabs",
         "children": [
           {
-            "id": "816f5f1927b92b61",
+            "id": "1c26a02efeeaf7c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Creative/Let's Try Spinning.md",
+                "file": "Game Design & Theory/Game Theory/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,107 +84,45 @@
             }
           },
           {
-            "id": "8630a7845615737f",
+            "id": "bbfa919403d94c97",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Design & Theory/Game Theory/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
-          },
-          {
-            "id": "ec5a79994c8f4ef0",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "1e33de5745d6ab6c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "73e3c17030801c74",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "c44a77cd93d1be50",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5af8314b7f4ad464",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "2026-10-11.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "5d6370618d04a801",
+  "active": "0f2791357a226f40",
   "lastOpenFiles": [
+    "Game Design & Theory/Game Theory/Untitled.md",
+    "Game Design & Theory/Game Theory/Untitled 1.md",
+    "index.md",
+    "Writing/Creative/Story Seeds for Apple Trees.md",
+    "Writing/Creative/Let's Try Spinning.md",
+    "Untitled.base",
     "Testing This/Now Testing This/Here is a File.md",
     "README.md",
-    "Writing/Creative/Story Seeds for Apple Trees.md",
     "Writing/Creative/Let’s Try Spinning.md",
     "Writing/Creative",
     "Writing",
@@ -210,7 +135,6 @@
     "Testing This/Now Testing This",
     "Testing This",
     "quartz/content/Writing/Creative/Story Seeds for Apple Trees.md",
-    "index.md",
     "2026-10-11.md",
     "This is the Fitness Gram Pacer Test.md",
     "quartz/docs/images/giscus-example.png",
@@ -237,11 +161,7 @@
     "quartz/docs/Canvas.canvas",
     "quartz/docs/plugins/Fonts.md",
     "quartz/docs/getting-started/whats-new.md",
-    "quartz/docs/plugins/EncryptedPages.md",
-    "quartz/docs/layout-components.md",
-    "quartz/docs/features/Obsidian compatibility.md",
     "quartz/docs/Base.base",
-    "quartz/content/Game Design & Theory/Game Theory",
     "Untitled.canvas"
   ]
 }

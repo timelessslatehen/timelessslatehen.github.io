@@ -1,5 +1,6 @@
 {
-  "settingsPopoutWindow": false,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "settingsPopoutWindow": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
 }
