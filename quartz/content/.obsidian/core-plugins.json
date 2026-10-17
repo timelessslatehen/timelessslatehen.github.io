@@ -10,13 +10,13 @@
   "footnotes": true,
   "properties": true,
   "page-preview": true,
-  "daily-notes": true,
+  "daily-notes": false,
   "templates": true,
   "note-composer": true,
-  "command-palette": true,
+  "command-palette": false,
   "slash-command": false,
   "editor-status": true,
-  "bookmarks": true,
+  "bookmarks": false,
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
@@ -24,9 +24,9 @@
   "slides": false,
   "audio-recorder": false,
   "workspaces": false,
-  "file-recovery": true,
+  "file-recovery": false,
   "publish": false,
   "sync": true,
   "bases": true,
-  "webviewer": false
+  "webviewer": true
 }

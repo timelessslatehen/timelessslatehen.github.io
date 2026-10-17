@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing This/Now Testing This/Here is a File.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Here is a File"
+              "title": "index"
             }
           }
         ]
@@ -75,21 +75,9 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "b3fd3c1cc3f127ac",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c44a77cd93d1be50",
+  "active": "5d6370618d04a801",
   "lastOpenFiles": [
+    "Testing This/Now Testing This/Here is a File.md",
+    "README.md",
     "Writing/Creative/Story Seeds for Apple Trees.md",
     "Writing/Creative/Let’s Try Spinning.md",
     "Writing/Creative",
@@ -231,13 +221,11 @@
     "Game Design & Theory/Game Theory/Foundations.md",
     "Game Design & Theory/Game Theory",
     "Game Design & Theory",
-    "Testing This/Now Testing This/Here is a File.md",
     "Testing This/Now Testing This",
     "Testing This",
     "quartz/content/Writing/Creative/Story Seeds for Apple Trees.md",
     "index.md",
     "2026-10-11.md",
-    "README.md",
     "This is the Fitness Gram Pacer Test.md",
     "quartz/docs/images/giscus-example.png",
     "quartz/docs/images/giscus-results.png",
